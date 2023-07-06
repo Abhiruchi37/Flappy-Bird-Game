@@ -1,0 +1,2 @@
+###CASE 1: Before game starts, two columns created out of the frame and are hidden from the player\
+![1.png]
